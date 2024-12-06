@@ -13,6 +13,4 @@ tool.Parent = game.Players.LocalPlayer.Backpack
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/typezico/dsgth/refs/heads/main/ghuhuruhzico"))()
 
-loadstring(game:HttpGet("https://pastefy.app/afHQ7oyj/raw"))()
-
 loadstring(game:HttpGet("https://raw.githubusercontent.com/typezico/dsgth/refs/heads/main/0.0000000001%25%20zico%20speed"))()
