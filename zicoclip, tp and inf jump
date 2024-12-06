@@ -1,6 +1,6 @@
 loadstring(game:HttpGet("https://raw.githubusercontent.com/typezico/-bffcfdb/refs/heads/main/tp%20and%20inf%20zico"))()
 
-wait(2)
+wait(0.5)
 
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/typezico/dsgth/refs/heads/main/nozicoclip"))()
